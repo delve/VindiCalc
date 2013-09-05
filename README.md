@@ -25,3 +25,5 @@ Script suitable for a Google spreadsheet to calculate the cost of crafting an it
 
 ###To Contributors
 I know the code is a bit ugly. All the functions are in one file, it's full of commented code kept for later memory, and it's probably quite inefficient. Feel free to fix it up. However unless there's an easy way to import a GIT repo to a Google doc that I'm unaware of (which is quite likely tbh) I'd actually prefer to leave the code in a single file. Makes it easier for people to import into a new sheet.
+
+Also, while I'm no longer maintaining this code I'll be happy to answer reasonable questions.
